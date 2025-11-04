@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Tactile tiles illustration">
+  <defs>
+    <linearGradient id="g" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f9fafb"/>
+      <stop offset="100%" stop-color="#eef2f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g)"/>
+  <g transform="translate(110,90)" fill="none" stroke="#d1d5db" stroke-width="2">
+    <rect x="0" y="0" width="120" height="120" rx="8" fill="#ffffff"/>
+    <rect x="150" y="0" width="120" height="120" rx="8" fill="#ffffff"/>
+    <rect x="300" y="0" width="120" height="120" rx="8" fill="#ffffff"/>
+    <g stroke="#94a3b8">
+      <path d="M20 30 h80"/>
+      <path d="M170 30 h80"/>
+      <path d="M320 30 h80"/>
+      <path d="M20 55 h80"/>
+      <path d="M170 55 h80"/>
+      <path d="M320 55 h80"/>
+      <path d="M20 80 h80"/>
+      <path d="M170 80 h80"/>
+      <path d="M320 80 h80"/>
+    </g>
+  </g>
+</svg>
+
