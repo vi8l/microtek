@@ -1,0 +1,45 @@
+.premium-hero {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.premium-hero video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.65);
+}
+
+.premium-content {
+  position: absolute;
+  top: 50%;
+  left: 8%;
+  transform: translateY(-50%);
+  max-width: 700px;
+}
+
+.premium-content h1 {
+  font-size: 72px;
+  line-height: 1.1;
+  margin-bottom: 25px;
+}
+
+.premium-content p {
+  color: #d4d4d4;
+  font-size: 20px;
+  margin-bottom: 35px;
+}
+
+.premium-content a {
+  padding: 16px 32px;
+  background: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+}
